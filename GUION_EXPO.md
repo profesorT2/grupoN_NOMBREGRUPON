@@ -1,4 +1,4 @@
-Guion exposicion revolucion industrial
-introduccion-- daniel.......
-primera revolucion--- catalina-----
-segunda revolucion --a-a- carlos
+Guion exposicion revolucion industrial <br>
+introduccion-- daniel.......<br>
+primera revolucion--- catalina-----<br>
+segunda revolucion --a-a- carlos<br>
