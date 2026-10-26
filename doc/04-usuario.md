@@ -67,6 +67,6 @@
 ## 4. Resultados
 
 - [Resultados de la entrevista](../assets/resultados-entrevista.md)
-- [Mapa de empatía](../assets/mapa-empatia.md)
+- [Mapa de empatía](../assets/mapa-empatia.png)
 
 **Hallazgo principal:** lo que más le duele al usuario es ______________________ porque ______________________.
