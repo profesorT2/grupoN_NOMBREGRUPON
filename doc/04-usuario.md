@@ -32,7 +32,7 @@
 
 **Después (el mismo día)**
 1. Pasen las notas a `assets/resultados-entrevista.md`.
-2. Con esas frases, llenen `assets/mapa-empatia.md`.
+2. Con esas frases, llenen `assets/mapa-empatia.png`.
 
 ## 3. Preguntas
 
